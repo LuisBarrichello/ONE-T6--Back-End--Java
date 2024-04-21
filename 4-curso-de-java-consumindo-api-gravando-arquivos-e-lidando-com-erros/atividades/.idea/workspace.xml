@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8473f324-38c3-4843-afb1-0d38a381f7e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../3-curso-java-trabalhando-com-listas-e-colecoes-de-dados/desafio-final/src/CartaoDeCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2944-java-screenmatch-consumindo-webservice-main/src/br/com/alura/screenmatch/excecao/ErroDeConversaoDeAnoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2944-java-screenmatch-consumindo-webservice-main/src/br/com/alura/screenmatch/modelos/TituloOmdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2944-java-screenmatch-consumindo-webservice-main/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WriteToFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-curso-java-trabalhando-com-listas-e-colecoes-de-dados/screenMatch/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3-curso-java-trabalhando-com-listas-e-colecoes-de-dados/screenMatch/src/br/com/alura/screenmatch/main/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-curso-java-trabalhando-com-listas-e-colecoes-de-dados/screenMatch/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3-curso-java-trabalhando-com-listas-e-colecoes-de-dados/screenMatch/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-curso-java-trabalhando-com-listas-e-colecoes-de-dados/screenMatch/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3-curso-java-trabalhando-com-listas-e-colecoes-de-dados/screenMatch/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-curso-java-trabalhando-com-listas-e-colecoes-de-dados/screenMatch/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3-curso-java-trabalhando-com-listas-e-colecoes-de-dados/screenMatch/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2fNeJiqHoA6qwxsNBlmpA7ntIYk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Luís Gabriel/Projects/Java T6 - ONE/4-curso-de-java-consumindo-api-gravando-arquivos-e-lidando-com-erros/atividades"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8473f324-38c3-4843-afb1-0d38a381f7e3" name="Changes" comment="" />
+      <created>1713645892673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713645892673</updated>
+    </task>
+    <servers />
+  </component>
+</project>
